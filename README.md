@@ -48,13 +48,12 @@ Tier & rarity custom
 
 💰 Harga Layanan
 
-Aku menyediakan dua model pengerjaan: one-time setup dan monthly development.
+Aku menyediakan dua model pengerjaan: One-Time Setup dan Monthly Development.
 
-🔹 One-Time Setup (Full System)
+🔹 One-Time Setup (Full RPG System)
 
-Cocok untuk kamu yang ingin sistem RPG lengkap dari nol.
-Harga mulai dari:
-Rp 459.000 – Rp 500.000
+Untuk sistem RPG lengkap dari nol.
+Harga: Rp 459.000 – Rp 500.000
 
 Termasuk:
 
@@ -62,27 +61,26 @@ Core RPG system
 
 Leveling, stats, class (opsional)
 
-Custom mobs, weapons, skills (sesuai kebutuhan)
+Custom mobs, weapons, skills
 
-Dokumentasi & setup di servermu
+Setup & dokumentasi
 
-🔹 Per Bulan (Tanpa Deadline / Ongoing Development)
+🔹 Monthly Development (Tanpa Deadline)
 
-Cocok untuk server yang ingin update rutin, penambahan fitur, dan perbaikan berkelanjutan.
-Harga mulai dari:
-Rp 350.000 – Rp 400.000 per bulan
+Untuk update rutin dan pengembangan berkelanjutan.
+Harga: Rp 350.000 – Rp 400.000 / bulan
 
 Termasuk:
 
-Update fitur setiap minggu
+Update mingguan
 
 Fix & balancing
 
-Penambahan mobs/skills/weapon secara bertahap
+Penambahan fitur secara bertahap
 
-Support & maintenance fleksibel
+Support fleksibel
 
 📬 Kontak
 
-Jika kamu tertarik bekerja sama atau punya permintaan custom, jangan ragu untuk menghubungi aku.
-Aku siap membantu membangun sistem RPG impian kamu!
+Jika ingin bekerja sama atau punya permintaan custom, hubungi aku melalui:
+Discord: @ketlinch
