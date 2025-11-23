@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hallo Semuanya
+Kenalin aku Ketlin, aku adalah seorang developer minecraft dan RPG specialits
+
+Aku bisa custom berbagai permintaan
+1. Custom Mobs
+2. Custom Skills
+3. Custom Weapons
+4. Custom Armor
 
 <!--
 **ketlinch/ketlinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
