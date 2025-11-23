@@ -1,86 +1,56 @@
-👋 Hallo Semuanya
+## 👋 Halo, Aku Ketlin
+Aku adalah seorang Developer Minecraft dan Spesialis Sistem RPG yang berfokus pada pembuatan gameplay berkualitas tinggi, sistem yang terstruktur, serta fitur-fitur custom yang dapat disesuaikan dengan kebutuhan server kamu.
+Aku mengerjakan berbagai aspek RPG mulai dari pembuatan sistem inti hingga konten bertema fantasy yang kompleks.
 
-Perkenalkan, aku Ketlin — seorang Minecraft Developer sekaligus RPG Specialist yang berfokus pada pembuatan dan pengembangan sistem gameplay berkualitas tinggi. Aku berpengalaman menciptakan berbagai elemen RPG yang kompleks, terstruktur, dan dapat dikembangkan sesuai kebutuhan server kalian.
-
-🔧 Apa yang Bisa Aku Kerjakan?
-
-Aku menyediakan berbagai layanan pengembangan sistem RPG, mulai dari mekanik dasar hingga sistem yang sepenuhnya custom.
-
+🔧 Keahlian Utama
 ⚔️ Custom Mobs
 
-Mob unik dengan behavior khusus
-
-AI movement & attack pattern
-
-Drop table custom
-
-Boss system dengan mekanik kompleks
+- AI dan behavior unik
+- Bos dengan mekanik bertahap
+- Drop custom dan scaling difficulty
+- Animasi & efek khusus
 
 ✨ Custom Skills
-
-Active & passive skills
-
-Ability dengan efek visual
-
-Cooldown systems
-
-Multiplayer balancing
+- Skill aktif & pasif
+- Efek visual & particle
+- Sistem cooldown
+- Balancing multiplayer
 
 🔮 Custom Weapons
-
-Senjata dengan stats unik
-
-Ability khusus pada senjata
-
-Visual effect & particles
-
-Weapon rarity system
+- Senjata dengan stats unik
+- Ability khusus per senjata
+- Rarity & progression system
+- Efek particle dan impact
 
 🛡️ Custom Armor
-
-Armor dengan efek pasif
-
-Damage reduction formula
-
-Ability berbasis armor set
-
-Tier & rarity custom
+- Efek pasif & skill berbasis armor
+- Formula defense custom
+- Tier & set bonus
+- Perk yang dapat dikembangkan
 
 💰 Harga Layanan
+-  One-Time Setup (Full Sistem RPG)
 
-Aku menyediakan dua model pengerjaan: One-Time Setup dan Monthly Development.
-
-🔹 One-Time Setup (Full RPG System)
-
-Untuk sistem RPG lengkap dari nol.
+Untuk kamu yang ingin sistem RPG lengkap dari awal.
 Harga: Rp 459.000 – Rp 500.000
 
 Termasuk:
+- Sistem inti RPG
+- Level, stats, class (opsional)
+- Custom mobs, weapons, skills
+- Setup + dokumentasi lengkap
 
-Core RPG system
-
-Leveling, stats, class (opsional)
-
-Custom mobs, weapons, skills
-
-Setup & dokumentasi
-
-🔹 Monthly Development (Tanpa Deadline)
-
-Untuk update rutin dan pengembangan berkelanjutan.
+💰 Bulanan Tanpa Deadline (Ongoing Development)
+Untuk server yang ingin update rutin, fitur tambahan, dan maintenance berkelanjutan.
 Harga: Rp 350.000 – Rp 400.000 / bulan
 
 Termasuk:
+- Update mingguan
+- Fix & balancing
+- Penambahan fitur bertahap
+- Support fleksibel kapan saja
 
-Update mingguan
-
-Fix & balancing
-
-Penambahan fitur secara bertahap
-
-Support fleksibel
-
-📬 Kontak
-
-Jika ingin bekerja sama atau punya permintaan custom, hubungi aku melalui:
+📬 Hubungi Aku
+Untuk pemesanan atau pertanyaan
+kamu bisa menghubungi
 Discord: @ketlinch
